@@ -34,8 +34,9 @@ namespace Second
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.SystemColors.Control;
-            this.button1.Location = new System.Drawing.Point(204, 144);
+            this.button1.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.button1.ForeColor = System.Drawing.SystemColors.ActiveCaption;
+            this.button1.Location = new System.Drawing.Point(232, 160);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(206, 85);
             this.button1.TabIndex = 0;
